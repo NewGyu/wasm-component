@@ -1,0 +1,6 @@
+[submodule "wasm-tools"]
+	path = wasm-tools
+	url = git@github.com:bytecodealliance/wasm-tools.git
+[submodule "component-docs"]
+	path = component-docs
+	url = git@github.com:bytecodealliance/component-docs.git
